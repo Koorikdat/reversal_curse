@@ -8,4 +8,5 @@ Undergraduate project in order to replicate the original experiments linked abov
 
 [here](ReversalCurseReport (1).pdf)
 
-[ilovepdf_pages-to-jpg.zip](https://github.com/Koorikdat/reversal_curse/files/15407442/ilovepdf_pages-to-jpg.zip)
+
+[ReversalCurseReport (1).pdf](https://github.com/Koorikdat/reversal_curse/files/15407460/ReversalCurseReport.1.pdf)
